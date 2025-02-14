@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nihaonewworld
+- 👋 Hi, I’m Qiang Cao
 - 👀 I’m interested in bioinformatics.
-- 🌱 I’m currently learning R, Python and Java.
+- 🌱 I’m currently learning R, Python and Shell.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
